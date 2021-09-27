@@ -18,9 +18,9 @@ import io.swagger.annotations.ApiResponses;
 
 @RestController
 @RequestMapping("/api")
-public class EnglishNumberConvertToWordsController {
+public class ConvertController {
 
-	private static Logger logger = LoggerFactory.getLogger(EnglishNumberConvertToWordsController.class);
+	private static Logger logger = LoggerFactory.getLogger(ConvertController.class);
 
 	@Autowired
 	FormatNumberService formatNumberService;
