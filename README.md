@@ -30,4 +30,4 @@
 
 ## Command Line Argument
 
-* java -jar target/englishnumberconverttowords-0.0.1-SNAPSHOT.jar
+* java -jar englishnumberconverttowords-0.0.1-SNAPSHOT.jar
